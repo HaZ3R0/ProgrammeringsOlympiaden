@@ -1,0 +1,14 @@
+C:\Users\majo06005\source\repos\Uppgift2-Tre i rad\Uppgift2-Tre i rad\obj\Debug\net6.0\Uppgift2-Tre i rad.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\majo06005\source\repos\Uppgift2-Tre i rad\Uppgift2-Tre i rad\obj\Debug\net6.0\Uppgift2-Tre i rad.AssemblyInfoInputs.cache
+C:\Users\majo06005\source\repos\Uppgift2-Tre i rad\Uppgift2-Tre i rad\obj\Debug\net6.0\Uppgift2-Tre i rad.AssemblyInfo.cs
+C:\Users\majo06005\source\repos\Uppgift2-Tre i rad\Uppgift2-Tre i rad\obj\Debug\net6.0\Uppgift2-Tre i rad.csproj.CoreCompileInputs.cache
+C:\Users\majo06005\source\repos\Uppgift2-Tre i rad\Uppgift2-Tre i rad\bin\Debug\net6.0\Uppgift2-Tre i rad.exe
+C:\Users\majo06005\source\repos\Uppgift2-Tre i rad\Uppgift2-Tre i rad\bin\Debug\net6.0\Uppgift2-Tre i rad.deps.json
+C:\Users\majo06005\source\repos\Uppgift2-Tre i rad\Uppgift2-Tre i rad\bin\Debug\net6.0\Uppgift2-Tre i rad.runtimeconfig.json
+C:\Users\majo06005\source\repos\Uppgift2-Tre i rad\Uppgift2-Tre i rad\bin\Debug\net6.0\Uppgift2-Tre i rad.dll
+C:\Users\majo06005\source\repos\Uppgift2-Tre i rad\Uppgift2-Tre i rad\bin\Debug\net6.0\Uppgift2-Tre i rad.pdb
+C:\Users\majo06005\source\repos\Uppgift2-Tre i rad\Uppgift2-Tre i rad\obj\Debug\net6.0\Uppgift2-Tre i rad.dll
+C:\Users\majo06005\source\repos\Uppgift2-Tre i rad\Uppgift2-Tre i rad\obj\Debug\net6.0\refint\Uppgift2-Tre i rad.dll
+C:\Users\majo06005\source\repos\Uppgift2-Tre i rad\Uppgift2-Tre i rad\obj\Debug\net6.0\Uppgift2-Tre i rad.pdb
+C:\Users\majo06005\source\repos\Uppgift2-Tre i rad\Uppgift2-Tre i rad\obj\Debug\net6.0\Uppgift2-Tre i rad.genruntimeconfig.cache
+C:\Users\majo06005\source\repos\Uppgift2-Tre i rad\Uppgift2-Tre i rad\obj\Debug\net6.0\ref\Uppgift2-Tre i rad.dll
